@@ -15,7 +15,7 @@ if you want you can switch it out for a different version greater than OPENGL 3.
 
 execute these commands in the project directory:
 
-```
+```shell
 # create build directory and move to it
 mkdir build && cd build
 
